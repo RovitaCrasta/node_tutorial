@@ -1,0 +1,1 @@
+$format(new date(), 'yyyyMMdd	HH:mm:ss)	931afd30-a276-44ea-8a44-66a307d064e9	log event Emitted!
